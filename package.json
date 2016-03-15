@@ -1,0 +1,18 @@
+{
+  "name": "typo",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Make spellchecking in Atom a sanp.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "typo:spellcheck"
+  },
+  "repository": "https://github.com/redbassett/typo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
